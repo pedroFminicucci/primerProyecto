@@ -1,0 +1,125 @@
+#main_fondo {
+    background-image: url(../Fondos/male.jpg);
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.bio_sobremi {
+    background-color: rgba(17, 16, 16, 0.781);
+}
+
+.bio_sobremi h1 {
+    text-align: center;
+    font-size: 55px;
+    color: seashell;
+}
+
+.bio_hola {
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    color: seashell;
+}
+
+.bio_parrafo {
+    word-spacing: 10px;
+    font-style: italic;
+}
+
+.equipos_titulo {
+    background-color: rgba(0, 0, 0, 0.75);
+    height: 190px;
+}
+
+.equipos_titulo h3 {
+    text-align: center;
+    color: seashell;
+    font-size: 20px;
+}
+
+.equipos_lista {
+    margin-left: 40%;
+    color: seashell;
+}
+
+.equipos_lista ul {
+    list-style-type: disc;
+}
+
+.equipos_lista2 {
+    margin-left: 40%;
+    color: seashell;
+}
+
+.equipos_lista2 ul {
+    list-style-type: disc;
+}
+
+.equipos_lista2 {
+    margin-bottom: 50px;
+    border-bottom: solid;
+    width: 20%;
+}
+
+.equipos_lista2 ul {
+    list-style: none;
+}
+
+.equipos_lista2 li {
+    margin-top: 10px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+}
+
+.equipos_lista2 ul ul {
+    position: absolute;
+    display: none;
+}
+
+.equipos_lista2 ul ul li {
+    display: block;
+}
+
+.equipos_lista2 ul li:hover ul {
+    display: block;
+}
+
+.equipos_lista {
+    margin-bottom: 50px;
+    border-bottom: solid;
+    width: 20%;
+}
+
+.equipos_lista ul {
+    list-style: none;
+}
+
+.equipos_lista li {
+    margin-top: 10px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+}
+
+.equipos_lista ul ul {
+    position: absolute;
+    display: none;
+}
+
+.equipos_lista ul ul li {
+    display: block;
+}
+
+.equipos_lista ul li:hover ul {
+    display: block;
+}

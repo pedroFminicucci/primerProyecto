@@ -1,0 +1,27 @@
+main {
+  background: rgba(0, 0, 0, 0.75);
+  padding-top: 10px;
+}
+
+.section__galeria {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 450px 450px 450px 450px;
+  grid-template-columns: 450px 450px 450px 450px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.section__galeria img {
+  width: 450px;
+  height: 450px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.dropdown ul {
+  margin-top: 12%;
+}
+
+/*# sourceMappingURL=tpersonales.css.map */

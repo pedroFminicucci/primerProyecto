@@ -1,0 +1,77 @@
+.section__fondo{
+    background-image: url(../Fondos/hongo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 550px;
+    width: 100%;
+}
+.section__fondo--form{
+    background-color: rgba(0, 0, 0, 0.75);
+    
+}
+address {
+    text-align: center;
+    color: seashell;
+    background-color: rgba(17, 16, 16, 0.781);
+}
+address h2 {
+    font-size: 45px;
+    border-bottom: solid seashell;
+    margin: auto;
+    width: 1000px;
+}
+.address__contacto{
+    width: 400px;
+    margin: auto;
+}
+.address__contacto li {
+    list-style: none;
+    border-bottom: solid seashell;
+    margin-top: 50px;
+}
+.section__form{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: #444;
+    margin: auto;
+    width: 1000px;
+    
+}
+.form {
+    min-width: 400px;
+    flex: 2;
+    text-align: center;
+    padding: 30px;
+}
+.form h4 {
+    color: seashell;
+    font-size: 30px;
+}
+.form__input {
+    width: 100%;
+    margin: 7px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: seashell;
+    font-size: 15px;
+    border: none;
+    border-bottom: 3px solid seashell;
+    background: transparent;
+}
+.form__input:focus {
+    background: #333;
+    outline: none;
+}
+.form textarea {
+    min-height: 200px;
+    resize: none;
+}
+.form input[type="submit"] {
+    background-color: black;
+}
+.form input[type="reset"] {
+    background-color: black;
+}

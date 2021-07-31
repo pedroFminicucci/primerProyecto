@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,mBAAmB;EAC/B,WAAW,EAAE,IAAI;CACpB;;AAED,AAAA,iBAAiB,CAAC;EACd,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,uBAAuB;EAC9C,eAAe,EAAE,MAAM;CAC1B;;AAED,AACI,iBADa,CACb,GAAG,CAAC;EACA,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,KAAK;CACpB;;AAGL,AACI,SADK,CACL,EAAE,CAAC;EACC,UAAU,EAAE,GAAG;CAClB",
+    "sources": [
+        "../SASS/tpersonales.scss"
+    ],
+    "names": [],
+    "file": "tpersonales.css"
+}
